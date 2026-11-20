@@ -100,7 +100,7 @@
   "redirect_link": null,
   "home_name": null,
   "subdomains": null,
-  "accent_color": "#D7B46A   Copy",
+  "accent_color": "#D7B46A",
   "main_background": "#F7F3EC",
   "secondary_background": "#4A192C",
   "button_background": "#D7B46A",
@@ -233,8 +233,8 @@
       "question": "How Does a No KYC Casino Work?"
     }
   ],
-  "_generated_at": "2026-11-20T12:49:46.530Z",
+  "_generated_at": "2026-11-20T12:52:52.856Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-20T12:49:47.212Z",
-  "_deploy_trigger": "bp4qw"
+  "_last_deploy": "2026-11-20T12:52:53.536Z",
+  "_deploy_trigger": "oq0q4"
 }
