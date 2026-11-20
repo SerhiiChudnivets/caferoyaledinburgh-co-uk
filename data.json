@@ -100,15 +100,15 @@
   "redirect_link": null,
   "home_name": null,
   "subdomains": null,
-  "accent_color": "#bdbdbd",
-  "main_background": "#ffffff",
-  "secondary_background": "#000000",
-  "button_background": "#ffffff",
-  "button_text_color": "#79392f",
-  "text_color": "#ffffff",
-  "color_highlight_text": "#bdbdbd",
-  "color_main_btn_text": "#79392f",
-  "cta_background": "#000000",
+  "accent_color": "#D7B46A   Copy",
+  "main_background": "#F7F3EC",
+  "secondary_background": "#4A192C",
+  "button_background": "#D7B46A",
+  "button_text_color": "#241A20",
+  "text_color": "#241A20",
+  "color_highlight_text": "#D7B46A",
+  "color_main_btn_text": "#241A20",
+  "cta_background": "#4A192C",
   "logo": null,
   "popup_logo": null,
   "main_background_img": null,
@@ -233,8 +233,8 @@
       "question": "How Does a No KYC Casino Work?"
     }
   ],
-  "_generated_at": "2026-11-20T12:40:42.428Z",
+  "_generated_at": "2026-11-20T12:49:46.530Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-20T12:40:47.012Z",
-  "_deploy_trigger": "2ed94"
+  "_last_deploy": "2026-11-20T12:49:47.212Z",
+  "_deploy_trigger": "bp4qw"
 }
