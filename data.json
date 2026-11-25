@@ -2,7 +2,6 @@
   "name": "non gamstop casino",
   "site_name": "Top Five Non GamStop Online Casinos 2026",
   "html_head": "<meta name=\"google-site-verification\" content=\"AVcVSwEO928iH6ALeqL1kL55s7iFadrJhziVGu8dZPc\" />\n<link rel=\"canonical\" href=\"https://caferoyaledinburgh.co.uk/privacy-policy/\">\n<link rel=\"alternate\" href=\"https://caferoyaledinburgh.co.uk/privacy-policy/\" hreflang=\"en-GB\" />\n<link rel=\"alternate\" href=\"https://caferoyaledinburgh.co.uk/privacy-policy/\" hreflang=\"en\" />\n<link rel=\"alternate\" href=\"https://caferoyaledinburgh.co.uk/privacy-policy/\" hreflang=\"x-default\" />",
-  "url": "caferoyaledinburgh.co.uk",
   "template": "review",
   "language_code": "en",
   "allow_indexing": true,
@@ -272,8 +271,9 @@
       "question": "How Does a No KYC Casino Work?"
     }
   ],
-  "_generated_at": "2026-11-23T15:10:07.601Z",
+  "url": "www.caferoyaledinburgh.co.uk",
+  "_generated_at": "2026-11-25T15:07:14.692Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-23T15:10:08.482Z",
-  "_deploy_trigger": "v8t8v"
+  "_last_deploy": "2026-11-25T15:07:15.492Z",
+  "_deploy_trigger": "re08nm"
 }
